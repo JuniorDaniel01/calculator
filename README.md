@@ -1,1 +1,1 @@
-# calculator repository
+# calculator
