@@ -1,2 +1,2 @@
 # calculator
-Criando um aplicação para cálculos
+Criando um aplicação para cálculos matemáticos 
